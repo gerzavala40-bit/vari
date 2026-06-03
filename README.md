@@ -20,3 +20,21 @@ El backend procesará los datos mediante las siguientes entidades principales co
 
 ---
 *Desarrollado de a muy de a poquito. Cronograma estimado de finalización: 2028.*
+## 🗺️ Roadmap de Evolución (Próximas Versiones)
+
+El Proyecto VARI está diseñado de forma modular, lo que permitirá expandir sus capacidades en fases sucesivas a lo largo de la carrera:
+
+### 🟢 Fase 1: Núcleo Esencial (MVP - Año 1 y 2)
+* Integración de transporte (colectivos de línea y APIs de movilidad).
+* Módulo de comunicación de emergencia para el hogar y tótems urbanos.
+* Lector RFID/NFC para acreditación local de tarjeta SUBE.
+* Diseño base de la base de datos (Usuarios, Fichas Médicas y Siniestros).
+
+### 🔵 Fase 2: Accesibilidad Universal & Smart City
+* **Comandos de Voz:** Implementación de reconocimiento de voz básico para que adultos mayores con dificultades visuales o motrices puedan activar funciones diciendo "VARI, llamar a emergencias".
+* **Lectura de Pantalla:** Guiado auditivo del sistema para confirmar las acciones del usuario.
+* **Alertas Comunitarias:** Integración con sistemas de Defensa Civil para mostrar alertas climáticas o avisos de emergencias barriales en las pantallas de los tótems.
+
+### 🟣 Fase 3: Inteligencia Artificial Avanzada
+* **Detección Automática de Siniestros:** Análisis de video en tiempo real en el backend mediante visión por computadora (IA) para detectar colisiones en las esquinas y dar aviso automático al 911.
+* **Prevención de Caídas:** Módulo para VARI Hogar que analiza patrones de movimiento en ambientes clave y genera alertas si detecta que una persona mayor sufrió una caída y no se levanta.
